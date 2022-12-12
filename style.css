@@ -539,3 +539,119 @@ section {
 .teamlink a {
     margin-left: 8px;
 }
+/* prising */
+
+.pricing {
+    padding-top: 60px;
+    margin-bottom: 60px;
+}
+
+.pr {
+    padding-top: 40px;
+}
+
+.pricing_div {
+    padding: 60px 40px;
+    box-shadow: 0 3px 20px -2px rgb(20 45 100 / 10%);
+    background: #fff;
+    height: 100%;
+    border-top: 4px solid #fff;
+    border-radius: 5px;
+}
+
+.pricing_div h3 {
+    font-weight: 500;
+    margin-bottom: 15px;
+    font-size: 20px;
+    color: #37517e;
+}
+
+.pricing_div h4 {
+    font-size: 48px;
+    color: #37517e;
+    font-weight: 400;
+    font-family: "Jost", sans-serif;
+    margin-bottom: 25px;
+}
+
+.pricing_div h4 span {
+    color: #47b2e4;
+    font-size: 18px;
+    display: block;
+}
+
+.pricing_div ul {
+    padding: 20px 0;
+    list-style: none;
+    color: #999;
+    text-align: left;
+    line-height: 20px;
+}
+
+.pricing_div ul li {
+    padding: 10px 0 10px 30px;
+    position: relative;
+}
+
+.pricing_div ul .na {
+    color: #ccc;
+}
+
+.pricing_div ul .na i {
+    color: #ccc;
+}
+
+.pricing_div ul i {
+    color: #28a745;
+    font-size: 24px;
+    position: absolute;
+    left: 0;
+    top: 6px;
+}
+
+.prbtn {
+    display: inline-block;
+    padding: 12px 35px;
+    border-radius: 50px;
+    color: #47b2e4;
+    font-size: 16px;
+    font-weight: 500;
+    transition: 0.3s;
+    border: 1px solid #47b2e4;
+    text-decoration: none;
+}
+
+.prbtn2 {
+    display: inline-block;
+    padding: 12px 35px;
+    border-radius: 50px;
+    color: #47b2e4;
+    font-size: 16px;
+    font-weight: 500;
+    transition: 0.3s;
+    border: 1px solid #47b2e4;
+    text-decoration: none;
+}
+
+.prbtn:hover {
+    background: #47b2e4;
+    color: #fff;
+}
+
+.na span {
+    text-decoration: line-through;
+}
+
+.top {
+    border-top-color: #47b2e4;
+}
+
+.prbtn2 {
+    background: #47b2e4;
+    color: #fff;
+}
+
+.prbtn2:hover {
+    color: #47b2e4;
+    background: white;
+}
