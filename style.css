@@ -374,3 +374,38 @@ section {
     transition: 0.9s;
     background-color: #4668a2;
 }
+/* Servis */
+.servic .icondiv {
+    box-shadow: 0px 0 25px 0 rgb(0 0 0 / 10%);
+    padding: 50px 30px;
+    background: #fff;
+}
+
+.servic {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #f3f5fa;
+}
+
+.icon {
+    margin-bottom: 10px;
+}
+
+.icondiv h4 {
+    font-weight: 500;
+    margin-bottom: 15px;
+    font-size: 24px;
+    color: #37517e;
+}
+
+.icondiv p {
+    line-height: 24px;
+    font-size: 14px;
+    margin-bottom: 0;
+}
+
+.icon i {
+    color: #47b2e4;
+    font-size: 36px;
+    transition: 0.3s;
+}
