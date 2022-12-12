@@ -315,3 +315,62 @@ section {
 .eum .accordion-item {
     margin-top: 10px;
 }
+/* volup */
+.volup {
+    margin-bottom: 50px;
+}
+
+.volup .content h3 {
+    font-weight: 700;
+    font-size: 32px;
+    color: #37517e;
+    font-family: "Poppins", sans-serif;
+}
+
+.volup .content ul {
+    list-style: none;
+    padding: 0;
+}
+
+.volup .content ul li {
+    padding-bottom: 10px;
+}
+
+.volup .content ul i {
+    font-size: 20px;
+    padding-right: 4px;
+    color: #47b2e4;
+}
+
+.volup .progress {
+    height: 60px;
+    display: block;
+    background: none;
+    border-radius: 0;
+}
+
+.volup .progress .volup {
+    padding: 0;
+    margin: 0 0 6px 0;
+    text-transform: uppercase;
+    display: block;
+    font-weight: 600;
+    color: #37517e;
+}
+
+.foiz {
+    float: right;
+    font-style: normal;
+}
+
+.progress2 {
+    background: #e8edf5;
+    height: 10px;
+}
+
+.volup .progress-bar {
+    width: 1px;
+    height: 10px;
+    transition: 0.9s;
+    background-color: #4668a2;
+}
