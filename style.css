@@ -268,3 +268,50 @@ section {
     border: 2px solid #47b2e4;
     text-decoration: none;
 }
+/* eum */
+.eum {
+    padding-top: 50px;
+    padding-bottom: 40px;
+    margin-bottom: 50px;
+}
+.sp{
+    color: #47b2e4;
+    font-weight: 600;
+    font-size: 18px;
+    padding-right: 10px;
+}
+.eumna{
+    color: #47b2e4 !important;
+}
+
+
+.eumtext h3 {
+    font-weight: 400;
+    font-size: 34px;
+    color: #37517e;
+}
+
+.eumtext h4 {
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 5px;
+}
+
+.eumtext p {
+    font-size: 15px;
+    color: #848484;
+}
+
+.eum .img {
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.eum .accordion {
+    padding-top: 10px;
+}
+
+.eum .accordion-item {
+    margin-top: 10px;
+}
