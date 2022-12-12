@@ -888,3 +888,19 @@ strong {
     color: #fff;
     text-decoration: none;
 }
+.footer_copy {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: #fff;
+}
+.copy1 {
+    float: left;
+}
+.copy2 {
+    float: right;
+    font-size: 13px;
+}
+.copy2 a{
+    color: #47b2e4;
+    text-decoration: none;
+}
