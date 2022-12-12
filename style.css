@@ -655,3 +655,38 @@ section {
     color: #47b2e4;
     background: white;
 }
+/* freq */
+.freq {
+    background-color: #f3f5fa;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.helpicon {
+    font-size: 24px;
+    position: absolute;
+    right: 0;
+    left: 20px;
+    color: #47b2e4;
+}
+
+.freac .accordion-button span {
+    display: block;
+    position: relative;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+    padding: 0 30px;
+    outline: none;
+    cursor: pointer;
+}
+
+.freac .accordion-item {
+    border-radius: 4px;
+    margin-top: 10px;
+}
+
+.freac .accordion {
+    padding: 0 100px;
+}
