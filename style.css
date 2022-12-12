@@ -101,3 +101,69 @@ a {
 .logo a {
     text-decoration: none;
 }
+/* home */
+#home {
+    width: 100%;
+    height: 80vh;
+    background: #37517e;
+}
+
+#home .container {
+    padding-top: 130px;
+}
+
+#home h1 {
+    margin: 0 0 10px 0;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 56px;
+    color: #fff;
+}
+
+#home h2 {
+    color: rgba(255, 255, 255, 0.6);
+    margin-bottom: 50px;
+    font-size: 24px;
+}
+
+#home .homget {
+    font-family: "Jost", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 10px 28px 11px 28px;
+    border-radius: 50px;
+    transition: 0.5s;
+    margin: 10px 0 0 0;
+    color: #fff;
+    background: #47b2e4;
+    text-decoration: none;
+}
+
+#home .homget:hover {
+    background: #209dd8;
+}
+
+#home .homvi {
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    transition: 0.5s;
+    margin: 10px 0 0 25px;
+    color: #fff;
+    line-height: 1;
+    text-decoration: none;
+}
+
+#home .homvi i {
+    line-height: 0;
+    color: #fff;
+    font-size: 32px;
+    transition: 0.3s;
+    margin-right: 8px;
+}
+
+#home .homvi:hover i {
+    color: #47b2e4;
+}
