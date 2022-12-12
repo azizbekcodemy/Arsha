@@ -446,6 +446,69 @@ section {
     background: #47b2e4;
     border: 2px solid #47b2e4;
 }
+/* port */
+.imgg{
+    width: 100%;
+}
+.imgg2{
+    display: flex;
+    gap: 20px;
+}
+.imgg3{
+    display: flex;
+    gap: 20px;
+}
+.imgg4{
+    gap: 20px;
+}
+.imgg5{
+    margin-left: 905px;
+    margin-top: -715px;
+}
+.card3{
+   width: 430px;
+   margin-left: 450px;
+   margin-top: -120px; 
+}
+.card1{
+    width: 430px;
+}
+.card2{
+    width: 430px;
+}
+.portimg5{
+    padding-top: -300px;
+}
+.portfolio{
+    padding-top: 60px;
+    padding-bottom: 60px;
+    height: 1600px;
+}
+.portbut {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.portbut button {
+    cursor: pointer;
+    display: inline-block;
+    margin: 10px 5px;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 1;
+    color: #444444;
+    transition: all 0.3s;
+    padding: 8px 20px;
+    border-radius: 50px;
+    border: none;
+    background-color: white;
+}
+
+.portbut .but {
+    color: white;
+    background: #47b2e4;
+}
+
 /* team */
 .team {
     background-color: #f3f5fa;
