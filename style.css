@@ -167,3 +167,16 @@ a {
 #home .homvi:hover i {
     color: #47b2e4;
 }
+/* homebanner */
+.hombanner {
+    padding: 12px 0;
+    text-align: center;
+    background-color: #f3f5fa;
+    margin-bottom: 60px;
+}
+
+.hombanner img {
+    max-width: 45%;
+    display: inline-block;
+    padding: 15px 0;
+}
