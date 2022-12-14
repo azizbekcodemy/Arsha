@@ -967,3 +967,24 @@ strong {
     color: #47b2e4;
     text-decoration: none;
 }
+/* arrow */
+.arrov {
+    position: fixed;
+    right: 15px;
+    bottom: 15px;
+    z-index: 996;
+    background: #47b2e4;
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    transition: all 0.4s;
+    justify-content: center !important;
+    align-items: center !important;
+    text-align: center !important;
+    display: flex !important;
+    padding-top: 0px;
+    font-size: 30px;
+}
+.arrov i{
+    color: white;
+}
